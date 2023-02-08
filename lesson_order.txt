@@ -1,0 +1,18 @@
+1. Hello World + 2. Cargo
+4. Output
+5. Variables & data types
+6. Strings
+8. if statements
+9. Loops
+7. Tuples & Arrays & Vectors
+10. Functions
+12. Structs + 13. Enums
+17. Ownership
+11. Pointers & references
+14. User input
+18. Working with files
+15. Panic
+20. Concurrency
+3. Custom Modules
+16. Cargo Packages (downloadable modules)
+19. Multithreaded server
